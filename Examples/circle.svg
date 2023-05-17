@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" style="fill:yellow" >
+        <circle cx="150" cy="100" r="100" style ="fill:yellow" />
+        <text x="145" y="110" fill="purple" font-size="40" text-anchor="middle">AMG</text>  
+      </svg>

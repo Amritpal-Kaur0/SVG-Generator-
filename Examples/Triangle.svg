@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" style="fill:brown">
+        <polygon points ="150,50 50,150 250,150" style="fill:brown" />  
+        <text x="150" y="120" fill="red" font-size="30" text-anchor="middle">AMG</text>  
+      </svg>

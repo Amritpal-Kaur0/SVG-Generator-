@@ -1,0 +1,22 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "A Node.js Command line Application for Creating logos",
+  "main": "index.js",
+  "type": "commonjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
