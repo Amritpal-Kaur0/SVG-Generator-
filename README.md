@@ -16,6 +16,8 @@ This is  Node.js command-line application that takes in user input to generate a
 
 There is a walkthrough video that demonstrates its functionality and passes all of the tests. 
 
+![2023-05-17](https://github.com/Amritpal-Kaur0/SVG-Generator-/assets/128442182/09c0ab82-e4d3-4140-947b-7194850061af)
+
 ## Installation
 install `inquirer `
 install` jest`
